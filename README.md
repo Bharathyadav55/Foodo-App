@@ -12,8 +12,8 @@
 
 ## 🌟 Live Demo
 
-- **Frontend**: https://foodo-frontend.onrender.com
-- **Backend API**: https://foodo-app-backend.onrender.com
+- **Frontend**: [https://foodo-app.onrender.com](https://foodo-app.onrender.com)
+- **Backend API**: [https://foodo-app-backend.onrender.com](https://foodo-app-backend.onrender.com)
 - **GitHub Repo**: https://github.com/Bharathyadav55/Foodo-App
 
 ---
