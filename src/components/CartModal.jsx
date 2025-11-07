@@ -65,7 +65,8 @@ export default function CartModal({
 
       console.log("Submitting order:", orderData);
 
-      const response = await fetch("http://localhost:5000/api/orders", {
+      const response = await fetch("https://foodo-app-backend.onrender.com/api/orders", {
+
         method: "POST",
         headers: {
           "Content-Type": "application/json",
